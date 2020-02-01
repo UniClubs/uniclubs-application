@@ -13,3 +13,8 @@ Collaborators: Ian Rios, Keina Aoita, Maina Aoita
 
 To download all dependencies, type in bash terminal `npm install`. This will download all dependencies from `package.json`.
 
+## Git Commands
+
+Change user
+`git config user.name your_username_here`
+`git config user.email your_email_address_here`
